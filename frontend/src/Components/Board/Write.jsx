@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, useNavigate, useParams  } from 'react-router-dom';
 import { LiaUmbrellaBeachSolid } from 'react-icons/lia'
-
+import './board.css'
 // import { useCookies } from 'react-cookie';
 
 const Write = ({ token, mode = "write"}) => {
@@ -226,7 +226,10 @@ const Write = ({ token, mode = "write"}) => {
                         />
                     </label>
 
-                    <button type="submit">제출</button>
+<div className='writebtDiv'>
+
+                    <button type="submit" className='writebt'>제출</button>
+</div>
     
 
                 </article>

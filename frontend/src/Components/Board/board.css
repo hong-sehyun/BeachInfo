@@ -68,6 +68,18 @@ article {
 .deleteThd {
   width: 80px;
 }
+
+.writebt {
+  padding: 10px;
+  width: 100px;
+  margin-bottom: 5px;
+}
+
+
+.writebtDiv {
+  display: flex;
+  justify-content: flex-end; 
+}
 /* .boardDiv {
   background-color: aliceblue;
   margin: 30px;
