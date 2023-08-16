@@ -97,9 +97,9 @@ const Join = () => {
                             className={passwordMatch ? 'match' : 'not-match'}
                         />
                     </div>
-                    {passwordMatch === null && <p>비밀번호를 입력해주세요.</p>}
-                    {passwordMatch === false && <p className="error">비밀번호가 일치하지 않습니다. 다시 확인해주세요.</p>}
-                    {passwordMatch === true && <p>비밀번호가 일치합니다. 회원가입을 해주세요.</p>}
+                    {passwordMatch === null && <p className="msg">비밀번호를 입력해주세요.</p>}
+                    {passwordMatch === false && <p className="error">비밀번호가 일치하지 않습니다. </p>}
+                    {passwordMatch === true && <p className="msg">비밀번호가 일치합니다. 회원가입을 해주세요.</p>}
                     <div></div>
                     <div>
                         <button type="submit">회원가입</button>
