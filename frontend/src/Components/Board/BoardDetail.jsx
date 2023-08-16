@@ -50,7 +50,7 @@ const BoardDetail = ({ token }) => {
             });
 
             if (response.ok) {
-                console.log('Delete Successful');
+                // console.log('Delete Successful');
                 navigate('/');
 
             } else {

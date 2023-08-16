@@ -71,7 +71,7 @@ const Login = (props) => {
         },
         body: JSON.stringify(loginData),
       });
-      console.log("Authorization :" + response.headers.get("Authorization"));
+      // console.log("Authorization :" + response.headers.get("Authorization"));
       if (!response.ok) {
         throw new Error('Login failed');
       }
@@ -85,7 +85,7 @@ const Login = (props) => {
         throw new Error('Token not found in response');
       }
     } catch (error) {
-      console.error('Error during login:', error);
+      console.error(error);
       alert('아이디 또는 비밀번호를 잘못 입력했습니다. 입력하신 내용을 다시 확인해주세요.');
     }
   };

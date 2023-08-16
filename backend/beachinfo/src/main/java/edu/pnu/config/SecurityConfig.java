@@ -127,19 +127,19 @@ public class SecurityConfig {
 		return http.build();
 	}	
 
-	@Bean
-	CorsConfigurationSource corsConfigurationSource() {
-		UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
-		CorsConfiguration config = new CorsConfiguration();
-		config.setAllowedOrigins(Arrays.asList("*"));
-		config.setAllowedMethods(Arrays.asList("*"));
-		config.setAllowedHeaders(Arrays.asList("*"));
-		config.setAllowCredentials(false);
-		config.applyPermitDefaultValues();
-
-		source.registerCorsConfiguration("/**", config);
-		return source;
-	}	
+//	@Bean
+//	CorsConfigurationSource corsConfigurationSource() {
+//		UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
+//		CorsConfiguration config = new CorsConfiguration();
+//		config.setAllowedOrigins(Arrays.asList("*"));
+//		config.setAllowedMethods(Arrays.asList("*"));
+//		config.setAllowedHeaders(Arrays.asList("*"));
+//		config.setAllowCredentials(false);
+//		config.applyPermitDefaultValues();
+//
+//		source.registerCorsConfiguration("/**", config);
+//		return source;
+//	}	
 
 //	@Bean
 //	public AuthenticationManager authenticationManager(AuthenticationConfiguration authConfig) throws Exception {

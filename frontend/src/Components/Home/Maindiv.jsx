@@ -8,7 +8,7 @@ const Maindiv = ({ content }) => {
 
     const tags = [];
     for (let i = 0; i < content.length; i = i + 2) {
-        console.log(i);
+        // console.log(i);
 
 
         tags.push(

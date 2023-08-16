@@ -19,8 +19,8 @@ const Board = ({ token }) => {
     role = payload.role;
   }
 
-  console.log('Token:', token);
-  console.log('Role:', role);
+  // console.log('Token:', token);
+  // console.log('Role:', role);
 
   // 글쓰기 버튼 클릭시 경고창
   const writeClick = () => {
@@ -79,7 +79,7 @@ const Board = ({ token }) => {
       });
 
       if (response.ok) {
-        console.log('Delete Successful');
+        // console.log('Delete Successful');
         setBoards(boards.filter((board) => board.seq !== seq));
         // fetchBoards();
       } else {
@@ -101,7 +101,7 @@ const Board = ({ token }) => {
       });
 
       if (response.ok) {
-        console.log('Delete All Successful');
+        // console.log('Delete All Successful');
         setBoards([]);  
       } else {
         console.error('Delete All Failed');

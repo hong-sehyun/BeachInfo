@@ -51,7 +51,7 @@ const Home = () => {
     if (!city1Val || !city2Val) return;
 
     const url = `http://localhost:8080/beaches?city1=${city1Val}&city2=${city2Val}`;
-    console.log(url);
+    // console.log(url);
 
     fetch(url)
       .then((resp) =>

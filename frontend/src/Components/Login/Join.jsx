@@ -59,7 +59,7 @@ const Join = () => {
             navigate('/login');
 
         } catch (error) {
-            console.error('Error during registration:', error);
+            console.error(error);
         }
     };
 
