@@ -12,10 +12,20 @@
 ![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/0bc85ba2-80f7-4def-97b4-9ba2434aa463)
 
 
-### 반응형
+## 게시판
+
+<p align="center">
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/e58623e6-c219-49c7-9328-10b4b54bba5d" align="center" width="49%">
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/0ab29e0e-0183-465f-b01e-8a9c78262507" align="center" width="49%">
+</p>
+
+
+## 반응형
 
 <p align="center">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/34fc1fd3-7409-41f0-b697-1d9c919d7598" align="center" width="32%">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/025091f3-d318-4d04-bbd0-656f36ddf2d6" align="center" width="32%">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/83e70959-2407-436d-95d5-081adf6dd7bb" align="center" width="32%">
 </p>
+
+
