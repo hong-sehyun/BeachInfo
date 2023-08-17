@@ -25,7 +25,7 @@
 ## 3.2 게시글 작성
 <p align="center">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/5c0b7da5-12ad-4be9-ae72-f647bd46318d" align="center" width="32%">
-  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/b8d180fd-b86e-4e34-b038-7aef25e2c609" align="center" width="32%">
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/d1a8a94e-b6c5-4ed6-853e-2994e6590269" align="center" width="32%">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/b7f7895e-7a87-4266-a674-6c683ba9afde" align="center" width="32%">
 </p>
 
