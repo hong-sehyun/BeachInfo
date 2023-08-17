@@ -18,7 +18,6 @@
 
 <p align="center">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/34fc1fd3-7409-41f0-b697-1d9c919d7598" align="center" width="32%">
-  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/34fc1fd3-7409-41f0-b697-1d9c919d7598" align="center" width="32%">
-  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/34fc1fd3-7409-41f0-b697-1d9c919d7598" align="center" width="32%">
-  <figcaption align="center">3개 이미지 띄우기</figcaption>
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/025091f3-d318-4d04-bbd0-656f36ddf2d6" align="center" width="32%">
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/addce06f-423e-408a-80ff-fe1933cebc9c" align="center" width="32%">
 </p>
