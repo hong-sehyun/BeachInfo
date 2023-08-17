@@ -13,5 +13,5 @@
 
 
 ### 반응형
-![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/34fc1fd3-7409-41f0-b697-1d9c919d7598) | ![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/025091f3-d318-4d04-bbd0-656f36ddf2d6)
+![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/34fc1fd3-7409-41f0-b697-1d9c919d7598)  ![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/025091f3-d318-4d04-bbd0-656f36ddf2d6)
 
