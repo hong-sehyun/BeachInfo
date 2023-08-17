@@ -6,7 +6,6 @@
 
 
 ## 지역 검색
-![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/af7fefa8-009b-4ef0-91b8-77101568f9e2)
 
 ![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/37ff7abf-e5b4-4db5-b869-617105f7b49d)
 
