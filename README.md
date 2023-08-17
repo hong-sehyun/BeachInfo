@@ -18,7 +18,11 @@
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/e58623e6-c219-49c7-9328-10b4b54bba5d" align="center" width="49%">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/0ab29e0e-0183-465f-b01e-8a9c78262507" align="center" width="49%">
 </p>
-
+<p align="center">
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/5c0b7da5-12ad-4be9-ae72-f647bd46318d" align="center" width="32%">
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/b8d180fd-b86e-4e34-b038-7aef25e2c609" align="center" width="32%">
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/b7f7895e-7a87-4266-a674-6c683ba9afde" align="center" width="32%">
+</p>
 
 ## 반응형
 
