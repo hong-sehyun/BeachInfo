@@ -1,10 +1,11 @@
-# 해수욕장 개폐장 정보
+# Beach Info
 
-# 1. 소개
-> 풀스택 미니 프로젝트<p/>
-> 해양수산부_해수욕장 개폐장일정 정보<p/>
-> https://www.data.go.kr/data/15056091/fileData.do <p/>
-
+# 1. 개요
+풀스택 미니 프로젝트<p/>
+해양수산부_해수욕장 개폐장일정 정보<p/>
+https://www.data.go.kr/data/15056091/fileData.do <p/>
+<p/>
+프로젝트 기간 : 2023.07.24 ~ 2023.08.09 <p/>
 ###
 spring boot
 
