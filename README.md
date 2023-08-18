@@ -2,8 +2,9 @@
 
 # 1. 소개
 > 풀스택 미니 프로젝트<p/>
-> https://www.data.go.kr/data/15056091/fileData.do
-> 해양수산부_해수욕장 개폐장일정 정보
+> 해양수산부_해수욕장 개폐장일정 정보 <p/>
+> https://www.data.go.kr/data/15056091/fileData.do <p/>
+
 
 
 
