@@ -46,6 +46,8 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 ## 2.4 반응형
 > react-responsive 라이브러리 사용
 >![게시판반응 (3)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/612b316f-55bd-413f-904c-cd659e87ea2f)
+> ![beachinfo5반응 (2)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/9c5b6b3b-6937-4650-a3b2-82f0909ff991)
+
 
 
 
