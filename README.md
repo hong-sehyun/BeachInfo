@@ -1,7 +1,8 @@
 # Beach Info
 
 # 1. 개요
-![beachinfo1](https://github.com/hong-sehyun/BeachInfo/assets/119600891/9fa78e8c-7f50-4216-a932-c4ef831927a6)
+![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/be648f5d-6a8b-44df-9b16-44851df32de7)
+
 
 풀스택 미니 프로젝트<p/>
 프로젝트 기간 : 2023.07.24 ~ 2023.08.09 <p/>
