@@ -1,6 +1,8 @@
 # Beach Info
 
 # 1. 개요
+![beachinfo1](https://github.com/hong-sehyun/BeachInfo/assets/119600891/9fa78e8c-7f50-4216-a932-c4ef831927a6)
+
 풀스택 미니 프로젝트<p/>
 프로젝트 기간 : 2023.07.24 ~ 2023.08.09 <p/>
 ## 1.1 데이터 출처
@@ -17,13 +19,13 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
-![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/8a2c3571-62b4-412d-8eaf-20993a48faac)
-
 
 # 2. 웹서비스
 ## 2.1 지역 검색
+![beachinfo2](https://github.com/hong-sehyun/BeachInfo/assets/119600891/ce8dc8aa-4a5f-4e17-8dd8-0bedcea80197)
+![beachinfo4](https://github.com/hong-sehyun/BeachInfo/assets/119600891/2ae6aaac-6317-41d0-933d-a88e1a634cb8)
 
-![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/37ff7abf-e5b4-4db5-b869-617105f7b49d)
+<!-- ![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/37ff7abf-e5b4-4db5-b869-617105f7b49d) -->
 
 ![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/0bc85ba2-80f7-4def-97b4-9ba2434aa463)
 
@@ -45,8 +47,9 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 
 ## 2.4 반응형
 > react-responsive 라이브러리 사용
->![게시판반응 (3)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/612b316f-55bd-413f-904c-cd659e87ea2f)
-> ![beachinfo5반응 (2)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/9c5b6b3b-6937-4650-a3b2-82f0909ff991)
+![게시판반응 (3)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/612b316f-55bd-413f-904c-cd659e87ea2f)
+![beachinfo5반응 (2)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/9c5b6b3b-6937-4650-a3b2-82f0909ff991)
+![beachinfo3](https://github.com/hong-sehyun/BeachInfo/assets/119600891/d6b94dc9-0416-4046-a1a7-dadd6a2e4877)
 
 
 
