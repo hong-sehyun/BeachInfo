@@ -1,7 +1,7 @@
 # Beach Info
 
 # 1. 개요
-![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/be648f5d-6a8b-44df-9b16-44851df32de7)
+![beachinfo1 (2)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/f3f689c3-f92b-4123-a87b-e3ab78f70645)
 
 
 풀스택 미니 프로젝트<p/>
