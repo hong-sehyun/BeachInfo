@@ -114,11 +114,11 @@ const Board = ({ token }) => {
       <table>
         <thead>
           <tr>
-            <th scope="col">Seq</th>
+            <th scope="col">#</th>
             {!isMobile && <th scope="col">ID</th>}
             <th scope="col">Beach</th>
             <th scope="col">title</th>
-            {!isMobile && <th scope="col">Create Date</th>}
+            {!isMobile && <th scope="col">Date</th>}
             <th scope="col" className='deleteThd'></th>
           </tr>
         </thead>
