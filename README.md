@@ -34,6 +34,7 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 ## 2.3 게시판
 ### 2.3.1 회원가입
 회원이 아닌 사용자(게스트)는 게시글을 읽을 수 있으나 작성은 못함
+![로그아웃상태 글보기 (1)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/4b67551a-d340-4671-a784-5c484c212f24)
 
 게스트 상태에서 글쓰기를 클릭하면 '로그인을 해주세요'라는 alert가 뜸
 
