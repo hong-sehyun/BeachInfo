@@ -41,7 +41,7 @@ const MainArticle = ({ item }) => {
     if (isModalOpen) {
       // 카카오 맵 API 로드 후 실행할 함수
       const initMap = () => {
-        const KAKAO_API_KEY = '627febc1693dbff48776490bf4ef5a93'; // 카카오 맵 API 키
+        const KAKAO_API_KEY = process.env.REACT_APP_KAKAOMAP_API_KEY; // 카카오 맵 API 키
         const mapContainer = document.getElementById('kakaoMap');
 
         // 주소로 좌표를 검색하는 함수
