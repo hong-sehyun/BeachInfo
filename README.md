@@ -35,12 +35,18 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 ### 2.3.1 회원가입
 회원이 아닌 사용자(게스트)는 게시글을 읽을 수 있으나 작성은 못함
 ![로그아웃상태 글보기2 (1)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/3ab9f1f0-135f-4b5f-8bfa-34c1e999e57b)
+<p align="center">
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/3ab9f1f0-135f-4b5f-8bfa-34c1e999e57b" align="center" width="32%">
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/7519c91e-44ab-4685-a37f-4db8decf90c7" align="center" width="32%">
+  <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/47e56f65-56e2-453a-a961-2372bcc16896" align="center" width="32%">
+</p>
+  ![글쓰기로긴2 (1)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/7519c91e-44ab-4685-a37f-4db8decf90c7)
 
 게스트 상태에서 글쓰기를 클릭하면 '로그인을 해주세요'라는 alert가 뜸
 
 
 게시글 작성을 위해서는 회원가입이 필요함
-![화원가입완료 (1)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/47e56f65-56e2-453a-a961-2372bcc16896)
+<-- ![화원가입완료 (1)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/47e56f65-56e2-453a-a961-2372bcc16896) -->
 
 ### 2.3. JWT 토큰을 이용한 로그인
 <p align="center">
