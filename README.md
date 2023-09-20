@@ -57,21 +57,21 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 * 게시글 작성 페이지의 아이디도 사용자의 id로 고정되어 나타남
 <p align="center">
 <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/a3bf35d9-6c95-4573-945f-a18fbbdcf1ec" align="center" width="49%">
-<img src="" align="center" width="49%">
-</p>
+<!-- <img src="" align="center" width="49%">
+</p> -->
 
 
 * 게시글 작성 시 해수욕장을 선택하게 하여 게시판을 이용하는 사용자가 정보를 편하게 습득할 수 있도록 함
 
 <p align="center">
 <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/66b3fb39-27b0-4303-928e-3583044c50ef" align="center" width="49%">
-<img src="" align="center" width="49%">
+<!-- <img src="" align="center" width="49%"> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="" align="center" width="49%">
 <img src="" align="center" width="49%">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/5c0b7da5-12ad-4be9-ae72-f647bd46318d" align="center" width="32%">
