@@ -37,6 +37,7 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 
 ## 2.3 게시판
 ### 2.3.1 회원가입 및 JWT 로그인
+---
 * 회원이 아닌 사용자(게스트)는 게시글을 읽을 수 있으나 작성은 못함
 * 게스트 상태에서 글쓰기를 클릭하면 '로그인을 해주세요'라는 alert가 뜸
 <p align="center">
@@ -53,6 +54,7 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 
 
 ### 2.3.2 게시글 작성
+---
 * 로그인을 하면 게시판 헤더의 '게스트'가 사용자 id로 바뀜
 * 게시글 작성 페이지의 아이디도 사용자의 id로 고정되어 나타남
 <p align="center">
@@ -81,7 +83,7 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 
 
 ## 2.4 반응형
-> react-responsive 라이브러리 사용
+* react-responsive 라이브러리 사용
 
 <p align="center">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/d6b94dc9-0416-4046-a1a7-dadd6a2e4877" align="center" width="32%">
