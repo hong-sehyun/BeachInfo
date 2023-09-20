@@ -117,7 +117,7 @@ const Board = ({ token }) => {
             <th scope="col">#</th>
             {!isMobile && <th scope="col">ID</th>}
             <th scope="col">Beach</th>
-            <th scope="col">title</th>
+            <th scope="col">Title</th>
             {!isMobile && <th scope="col">Date</th>}
             <th scope="col" className='deleteThd'></th>
           </tr>
