@@ -73,9 +73,9 @@ const Write = ({ token, mode = "write"}) => {
     const navigate = useNavigate();
 
     const { seq } = useParams();
-    // console.log('Original Token:', token);
+    // console.log(token);
     const payload = JSON.parse(atob(token.split('.')[1]));
-    // console.log('Decoded Payload:', payload);
+    // console.log(payload);
     const sub = payload.sub;
 
 
@@ -107,7 +107,7 @@ const Write = ({ token, mode = "write"}) => {
                     setTitle(data.title);
                     setContent(data.content);
                     setSelectedFile(data.selectedFile);
-                    // console.log('Type of selectedFile:', typeof data.selectedFile);
+                    // console.log(typeof data.selectedFile);
                 })
                 .catch(error => console.error('Failed to fetch board for editing:', error));
         }
@@ -150,7 +150,7 @@ const Write = ({ token, mode = "write"}) => {
 
 
             if (response.ok) {
-                // console.log('Response Status:', response.status);
+                // console.log(response.status);
                 // console.log('성공');
                 alert('게시글이 성공적으로 작성되었습니다.');
                 navigate('/');

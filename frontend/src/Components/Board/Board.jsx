@@ -79,9 +79,7 @@ const Board = ({ token }) => {
       });
 
       if (response.ok) {
-        // console.log('Delete Successful');
         setBoards(boards.filter((board) => board.seq !== seq));
-        // fetchBoards();
       } else {
         console.error('Delete Failed');
       }
@@ -101,7 +99,6 @@ const Board = ({ token }) => {
       });
 
       if (response.ok) {
-        // console.log('Delete All Successful');
         setBoards([]);  
       } else {
         console.error('Delete All Failed');
@@ -127,10 +124,6 @@ const Board = ({ token }) => {
         </thead>
         <tbody>
           {boards.map((board) =>
-          // console.log('CurrentUser:', currentUser);
-          // console.log('Board Username:', board.username);
-          // console.log("Token from cookies:", cookies.Token);
-          // console.log("Received token prop:", token);
           (
             <tr key={board.seq}>
               

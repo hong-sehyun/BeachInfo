@@ -1,18 +1,17 @@
-/* .appmain {
-    margin: 40px;
-  } */
-  .scroll-container{
+  .scroll-container {
     scroll-behavior: smooth;
     display: block;
   }
+
   #section1 {
     display: flex;
-    justify-content: center; /* center horizontally */
-    align-items: center;     /* center vertically */
-    flex-direction: column;  /* stack children vertically */
-    height: 100vh;           
-    
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+
   }
+
   #scrolldown {
     color: rgba(65, 84, 98);
     display: inline-block;
@@ -22,8 +21,8 @@
 
   #scrolldown:hover {
     transform: scale(4.8);
-  
   }
+
   .scroll-container {
     scroll-behavior: smooth;
   }
