@@ -28,21 +28,26 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 ![beachinfo4 (1)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/6ff434da-fb4d-47e8-bf8c-929bbd24a1a4)
 
 <!-- ![beachinfo4](https://github.com/hong-sehyun/BeachInfo/assets/119600891/2ae6aaac-6317-41d0-933d-a88e1a634cb8) -->
-
 <!-- ![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/37ff7abf-e5b4-4db5-b869-617105f7b49d) -->
-
-![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/0bc85ba2-80f7-4def-97b4-9ba2434aa463)
 
 
 ## 2.3 게시판
+### 2.3.1 회원가입
+회원이 아닌 사용자(게스트)는 게시글을 읽을 수 있으나 작성은 못함
 
-### 2.3.1 JWT 토큰을 이용한 로그인
+게스트 상태에서 글쓰기를 클릭하면 '로그인을 해주세요'라는 alert가 뜸
+
+
+게시글 작성을 위해서는 회원가입이 필요함
+![화원가입완료 (1)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/47e56f65-56e2-453a-a961-2372bcc16896)
+
+### 2.3. JWT 토큰을 이용한 로그인
 <p align="center">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/e58623e6-c219-49c7-9328-10b4b54bba5d" align="center" width="49%">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/0ab29e0e-0183-465f-b01e-8a9c78262507" align="center" width="49%">
 </p>
 
-### 2.3.2 게시글 작성
+### 2.3. 게시글 작성
 <p align="center">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/5c0b7da5-12ad-4be9-ae72-f647bd46318d" align="center" width="32%">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/d1a8a94e-b6c5-4ed6-853e-2994e6590269" align="center" width="32%">
@@ -51,6 +56,7 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 
 ## 2.4 반응형
 > react-responsive 라이브러리 사용
+
 ![게시판반응 (3)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/612b316f-55bd-413f-904c-cd659e87ea2f)
 ![beachinfo5반응 (2)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/9c5b6b3b-6937-4650-a3b2-82f0909ff991)
 ![beachinfo3](https://github.com/hong-sehyun/BeachInfo/assets/119600891/d6b94dc9-0416-4046-a1a7-dadd6a2e4877)
