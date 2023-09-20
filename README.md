@@ -23,8 +23,11 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 
 # 2. 웹서비스
 ## 2.1 지역 검색
-![beachinfo2](https://github.com/hong-sehyun/BeachInfo/assets/119600891/ce8dc8aa-4a5f-4e17-8dd8-0bedcea80197)
-![beachinfo4](https://github.com/hong-sehyun/BeachInfo/assets/119600891/2ae6aaac-6317-41d0-933d-a88e1a634cb8)
+<!-- ![beachinfo2](https://github.com/hong-sehyun/BeachInfo/assets/119600891/ce8dc8aa-4a5f-4e17-8dd8-0bedcea80197) -->
+![beachinfo2 (2)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/38e2296b-c1f7-49f9-89fa-38a9573a8129)
+![beachinfo4 (1)](https://github.com/hong-sehyun/BeachInfo/assets/119600891/6ff434da-fb4d-47e8-bf8c-929bbd24a1a4)
+
+<!-- ![beachinfo4](https://github.com/hong-sehyun/BeachInfo/assets/119600891/2ae6aaac-6317-41d0-933d-a88e1a634cb8) -->
 
 <!-- ![image](https://github.com/hong-sehyun/BeachInfo/assets/119600891/37ff7abf-e5b4-4db5-b869-617105f7b49d) -->
 
