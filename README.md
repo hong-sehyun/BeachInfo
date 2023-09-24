@@ -37,7 +37,7 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 
 ## 2.3 게시판
 ### 2.3.1 회원가입 및 JWT 로그인
----
+***
 * 회원이 아닌 사용자(게스트)는 게시글을 읽을 수 있으나 작성은 못함
 * 게스트 상태에서 글쓰기를 클릭하면 '로그인을 해주세요'라는 alert가 뜸
 <p align="center">
@@ -54,32 +54,39 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 
 
 ### 2.3.2 게시글 작성
----
+* * *
 * 로그인을 하면 게시판 헤더의 '게스트'가 사용자 id로 바뀜
 * 게시글 작성 페이지의 아이디도 사용자의 id로 고정되어 나타남
 <p align="center">
-<img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/a3bf35d9-6c95-4573-945f-a18fbbdcf1ec" align="center" width="49%">
+<img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/a3bf35d9-6c95-4573-945f-a18fbbdcf1ec" align="center" width="67%">
 <!-- <img src="" align="center" width="49%">
 </p> -->
 
 
-* 게시글 작성 시 해수욕장을 선택하게 하여 게시판을 이용하는 사용자가 정보를 편하게 습득할 수 있도록 함
+* 게시글 작성 시 해수욕장을 선택하게 하여 게시판을 이용하는 사용자가 정보를 편하게 검색할 수 있도록 함
 
 <p align="center">
-<img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/66b3fb39-27b0-4303-928e-3583044c50ef" align="center" width="49%">
+<img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/66b3fb39-27b0-4303-928e-3583044c50ef" align="center" width="67%">
 <!-- <img src="" align="center" width="49%"> -->
 </p>
 
-<!-- <p align="center">
-<img src="" align="center" width="49%">
-<img src="" align="center" width="49%">
-</p> -->
+* 이미지 첨부
+<p align="center">
+<img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/3cfd6b64-c88d-4dbe-9d92-d75c6a63daac" align="center" width="67%">
+</p>
 
+* 제출
 <p align="center">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/5c0b7da5-12ad-4be9-ae72-f647bd46318d" align="center" width="32%">
   <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/b7f7895e-7a87-4266-a674-6c683ba9afde" align="center" width="32.5%">
 </p>
 
+### 2.3.3 게시글 수정
+_____
+
+<p align="center">
+<img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/e36afa75-031a-45cd-8f73-9bcbadd73fbf" align="center" width="67%">
+</p>
 
 
 ## 2.4 반응형
