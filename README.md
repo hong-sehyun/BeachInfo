@@ -37,7 +37,7 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 
 ## 2.3 게시판
 ### 2.3.1 회원가입 및 JWT 로그인
-***
+
 * 회원이 아닌 사용자(게스트)는 게시글을 읽을 수 있으나 작성은 못함
 * 게스트 상태에서 글쓰기를 클릭하면 '로그인을 해주세요'라는 alert가 뜸
 <p align="center">
@@ -54,7 +54,7 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 
 
 ### 2.3.2 게시글 작성
-* * *
+
 * 로그인을 하면 게시판 헤더의 '게스트'가 사용자 id로 바뀜
 * 게시글 작성 페이지의 아이디도 사용자의 id로 고정되어 나타남
 <p align="center">
@@ -82,7 +82,6 @@ https://www.data.go.kr/data/15056091/fileData.do <p/>
 </p>
 
 ### 2.3.3 게시글 수정
-_____
 
 <p align="center">
 <img src="https://github.com/hong-sehyun/BeachInfo/assets/119600891/e36afa75-031a-45cd-8f73-9bcbadd73fbf" align="center" width="67%">
